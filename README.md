@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taman-k
 - 👀 I’m interested in coding , learn new projects.
 - 🌱 I’m currently studying computer Application.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me my twitter id @tamanna_811
 
 <!---

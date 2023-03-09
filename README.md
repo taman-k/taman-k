@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tamanna</h1>
 <h3 align="center">To pursue a progressive career and to offer my innovative ideas for development of organizational objectives and myself with proper use of my existing skills and my knowledge.</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\taman\OneDrive\Documents\html1">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taman-k&label=Profile%20views&color=0e75b6&style=flat" alt="taman-k" /> </p>
 
 - 🔭 I’m currently working on **Python with Django**

@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Tamanna</h1>
 <h3 align="center">To pursue a progressive career and to offer my innovative ideas for development of organizational objectives and myself with proper use of my existing skills and my knowledge.</h3>
 <img align="right" alt="Coding" width="400" src=https://dribbble.com/shots/2498700/attachments/2498700-Toptal-Scholarship-for-Female-Developers-Winner?mode=media>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taman-k&label=Profile%20views&color=0e75b6&style=flat" alt="taman-k" /> </p>
+<p align="left"> <img src="C:\Users\taman\OneDrive\Desktop\pictures\bn.jpg" alt="taman-k" /> </p>
 
 - 🔭 I’m currently working on **Python with Django**
 
 - 🌱 I’m currently learning **Python ,Django,Machine learning**
 
-- 💬 Ask me about **Python, Php, COS, Networking ,DBMS, Artificial Intelligence, C Language, Computer Fundamentals.**
+- 💬 Ask me about **Python, PHP, C++,laravel, C Language, Networking ,DBMS, Artificial Intelligence,Computer Fundamentals.**
 
 - 📫 How to reach me **tamannak0612@gmail.com**
 

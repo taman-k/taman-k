@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me<br>I’m a Software developer Intern with a Bachelor degree in Computer Application.</h2>
+<h2 align="left">About me<br>I’m a Software developer Intern with a Master 's degree in Computer Application.</h2>
 
 ###
 
